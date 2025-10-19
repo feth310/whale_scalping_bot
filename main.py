@@ -7,7 +7,7 @@
 # =========================================================
 
 import os, time, ccxt, requests, pandas as pd
-import pandas_ta as ta
+import pandas_ta_classic as ta
 from email.mime.text import MIMEText
 import smtplib
 from dotenv import load_dotenv
